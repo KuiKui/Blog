@@ -1,6 +1,5 @@
-## Tester la dernière version de Git
-
 ###### 26/04/2012
+## Tester la dernière version de Git
 
 [Git](http://git-scm.com/) c'est bien.
 
