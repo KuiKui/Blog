@@ -17,14 +17,14 @@ Chez [PMSIpilot](http://www.pmsipilot.com) nous avons la chance de pouvoir mettr
 
 La première possibilité d’amélioration de la qualité est organisationnelle. Elle consiste à suivre scrupuleusement la 5ème [règle de Joel](http://www.joelonsoftware.com/articles/fog0000000043.html) : **corriger tous les bugs existants avant d’écrire de nouvelles fonctionnalités**. Cela parait simple, mais dans la pratique il faut que tous les services soient conscients des impacts. Dans notre équipe cela se traduit par un processus simple mais rigide de gestion des demandes entrantes :
 
-1. La demande est-elle nécessaire pour l’exploitation ?
-Traduction : « l’application n’est-elle plus utilisable par les clients sans cela ? »
+1. La demande est-elle nécessaire pour l’exploitation ?  
+Traduction : « l’application n’est-elle plus utilisable par les clients sans cela ? »  
 Si oui, on développe rapidement la demande.
-2. L’application est-elle stable ?
-Traduction : « il n’y a plus de bug connu et la couverture de test est suffisante ? »
+2. L’application est-elle stable ?  
+Traduction : « il n’y a plus de bug connu et la couverture de test est suffisante ? »  
 Si non, on stabilise l’application.
-3. Est-ce un besoin réel ?
-Traduction : « plusieurs personnes pensent que cette demande est attendue ? »
+3. Est-ce un besoin réel ?  
+Traduction : « plusieurs personnes pensent que cette demande est attendue ? »  
 Si oui, les développeurs estiment la durée de développement de la demande.
 
 A la fin de ce processus, nous nous trouvons en position de planifier un ensemble de demandes dont les temps de développement ont été préalablement définis par les développeurs en incluant la marge nécessaire pour maintenir la qualité intrinsèque du code.
