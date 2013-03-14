@@ -18,7 +18,7 @@ C'est pourquoi, avec feu la Team-Fusion (big up!), nous avons développé [Crew]
 
 ## Le 'One Week POC'
 
-Il y quelques mois, avec [Adrien Gallou](https://twitter.com/agallou) et [Julien Bianchi](https://twitter.com/jubianchi), nous avons développé Coconut CI, un service web d'intégration continue pour concurrencer [Travis CI](https://travis-ci.org). Effectivement à cette époque malgré sa domination sans partage, Travis CI restait fortement couplé à GitHub et ne permettait pas d'utiliser des repositories privés, ce qui était notre besoin.
+Il y quelques mois, avec [Adrien Gallou](https://twitter.com/agallou) et [Julien Bianchi](https://twitter.com/jubianchi), nous avons développé [Coconut CI](http://vimeo.com/47611483), un service web d'intégration continue pour concurrencer [Travis CI](https://travis-ci.org). Effectivement à cette époque malgré sa domination sans partage, Travis CI restait fortement couplé à GitHub et ne permettait pas d'utiliser des repositories privés, ce qui était notre besoin.
 
 Bref, pendant 3 mois nous avons développé un [MVP](http://www.dinkypage.com/the-makingof-our-mvp) que nous avons ensuite [présenté à quelques développeurs](http://lyon.afup.org/2012/09/18/aperophp-jeudi-27-septembre-a-19h/). Deux mois après nous fermions ce service. Aucun utilisateur n'avait lancé le moindre test. *Epic Fail*.
 
