@@ -2,6 +2,7 @@
 
 #### 2014
 
+* 13/06 - [Au revoir M6Web](https://github.com/KuiKui/Blog/blob/master/posts/2014-06-13_Au-revoir-m6web.md#au-revoir-m6web)
 * 18/02 - [Refonte du système de vote de M6Web](http://tech.m6web.fr/refonte-de-notre-systeme-de-vote/)
 * 09/02 - [atoum](https://github.com/KuiKui/Blog/blob/master/posts/2014-02-09_atoum.md#atoum)
 * 08/01 - [API à consommer avec modération](http://tech.m6web.fr/api-a-consommer-avec-moderation)
